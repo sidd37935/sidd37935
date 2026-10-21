@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Siddharth%20Pandey&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%2F%20RAG%20%7C%20Terraform%20%26%20Azure%20DevOps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Siddharth%20Pandey&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%26%20RAG%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+with+Groq+%2B+LLaMA;Automating+Infra+with+Terraform+%2B+Azure;Training+CNNs%2C+RNNs+%26+Transformers;Turning+Raw+Data+into+Shipped+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines+with+Groq+%2B+LLaMA;Extending+FinOps+Copilot+from+Azure+to+AWS;Training+CNNs%2C+RNNs+%26+Transformers;Turning+Raw+Data+into+Shipped+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 [![Resume](https://img.shields.io/badge/Resume-View-7dd3fc?style=for-the-badge&logo=readdotcv&logoColor=black)](https://drive.google.com/file/d/1zrOl7wk8oWyAY9NNudGc-gy-WgEbYbC2/view?usp=drivesdk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/siddharth-pandey-a97b772a3/)
 [![Email](https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:siddharthpandey8888@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sidd37935)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Entry--Level%20Roles-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sidd37935)
 
 <br/>
 
@@ -24,42 +24,60 @@
 
 ## 🧠 About Me
 
+Final-year B.Tech (AI & ML) student who likes building things that actually ship. My foundation is in **Python, Machine Learning, Deep Learning and GenAI/RAG**, and right now I'm adding **Cloud & DevOps** to the mix through hands-on FinOps work on AWS and Azure. I'm looking for an entry-level **AI/ML** or **Cloud/DevOps** role where I can build scalable, production-ready solutions.
+
 ```typescript
 const siddharthPandey = {
-  role: "AI & Machine Learning Engineer | Python Developer",
-  status: "Final-year B.Tech (AI & ML) student",
-  location: "India",
-  stack: {
-    languages: ["Python", "SQL"],
-    mlAndDl: ["Scikit-learn", "PyTorch", "TensorFlow", "CNN", "RNN", "LSTM", "Transformers"],
-    genAiAndNlp: ["LangChain", "FAISS", "GroqAPI", "OpenAIAPI", "GeminiAPI", "RAGPipelines"],
-    cloudAndDevOps: ["Azure", "Terraform", "Docker"],
-    webAndTools: ["Streamlit", "React", "HTML", "CSS", "Git", "GitHub", "REST APIs"],
-  },
-  launchedProjects: [
-    "Intelligent E-Commerce Analytics Suite",
-    "RAG-Based Document Q&A System",
+  role: "AI/ML Engineer | DevOps Engineer Intern",
+  education: "B.Tech (AI & ML), 2023–2027 · CGPA 7.25/10",
+  location: "Varanasi / Lucknow, India",
+  currentlyDoing: "DevOps Engineer Intern @ 9USRCRAFT (FinOps Copilot: Azure → AWS)",
+  currentlyExploring: ["MLOps", "Vector Databases", "LLM Fine-tuning", "Kubernetes"],
+  openTo: [
+    "Entry-level AI/ML Engineer roles",
+    "Cloud / DevOps roles",
+    "GenAI & LLM projects",
+    "MLOps collaborations",
   ],
-  certifications: [
-    "Python for Everybody — Coursera",
-    "IBM AI & ML Professional Certificate — IBM (Coursera)",
-    "Deep Learning Specialization — Udemy",
-    "SQL Bootcamp — Udemy",
-    "Data Science & Data Visualization — Udemy",
-    "GenAI Powered Data Analytics — Forage",
-  ],
-  currentlyExploring: ["MLOps", "Vector Databases", "LLM Fine-tuning"],
-  openTo: ["Entry-level AI/ML Engineer roles", "GenAI & LLM projects", "MLOps collaborations"],
 } as const;
 ```
 
 ---
 
+## 💼 Experience
+
+| Role | Company | Duration | What I did |
+|---|---|---|---|
+| **DevOps Engineer Intern** | 9USRCRAFT | Jun 2026 – Present | Extending an Azure-based **FinOps Copilot** to AWS with resource discovery and monitoring across **EC2, RDS, EBS, ELB and EKS**. Building and testing Python-based AWS integrations, monitoring workflows and cost-optimization logic using **Git, Azure DevOps, Docker and CI/CD**. |
+| **Python Developer (Web) Intern** | VinraTech | Jun 2025 – Aug 2025 | Built **ETL and data-processing workflows** with Pandas and NumPy for multi-source datasets, trained baseline ML models with Scikit-learn, and created Matplotlib/Seaborn visualizations to communicate business insights. |
+
+---
+
 ## 🚀 Featured Projects
+
+### 📄 RAG-Based Document Q&A System
+
+An end-to-end RAG pipeline for PDF question answering. Uploaded documents are chunked, embedded with transformer encoders and indexed in **FAISS** for fast semantic retrieval. Retrieved context is routed to a **Groq-hosted LLaMA** model through **LangChain**, giving low-latency, grounded answers over any document instead of relying on the model's raw context window.
+
+<a href="https://github.com/sidd37935/RAG-datasurgeonBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidd37935&repo=RAG-datasurgeonBOT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&icon_color=7dd3fc" alt="RAG-Based Document Q&A System"/>
+</a>
+
+| Layer | Technology |
+|---|---|
+| Chunking & Embeddings | Transformer embeddings, custom chunking strategy |
+| Vector Search | FAISS (low-latency semantic retrieval) |
+| Orchestration | LangChain |
+| LLM Inference | Groq API (LLaMA) |
+| Interface | Streamlit |
+
+[🌐 Live Demo](https://sidd37935-rag-document-q-a-app-x4jhfn.streamlit.app/) · [🔗 Code](https://github.com/sidd37935/RAG-datasurgeonBOT)
+
+---
 
 ### 🛒 Intelligent E-Commerce Analytics Suite
 
-Built an end-to-end analytics dashboard that ingests raw transaction data, automates exploratory data analysis, and surfaces sales KPIs in real time. Shipped a Scikit-learn linear regression model for demand forecasting, cutting manual reporting effort and giving stakeholders a self-serve view into trends without touching a notebook.
+A cloud-deployed analytics dashboard for exploratory data analysis, sales trends and product performance insights. Includes a **Scikit-learn Linear Regression** pipeline for demand forecasting, built with feature engineering on pricing and historical sales data, so stakeholders get a self-serve view of trends without opening a notebook.
 
 <a href="https://github.com/sidd37935/ecomm-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidd37935&repo=ecomm-project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&icon_color=7dd3fc" alt="Intelligent E-Commerce Analytics Suite"/>
@@ -69,30 +87,10 @@ Built an end-to-end analytics dashboard that ingests raw transaction data, autom
 |---|---|
 | Data Processing | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| Modeling | Scikit-learn (Linear Regression) — demand forecasting |
+| Modeling | Scikit-learn (Linear Regression) for demand forecasting |
 | Interface | Streamlit dashboard |
 
 [🔗 Code](https://github.com/sidd37935/ecomm-project)
-
----
-
-### 📄 RAG-Based Document Q&A System
-
-Designed a production-style RAG pipeline that chunks uploaded PDFs, embeds them with transformer-based encoders, and indexes vectors in FAISS for fast semantic retrieval. Routed retrieved context to a Groq-hosted LLaMA model via LangChain orchestration, delivering low-latency, grounded answers over arbitrary documents instead of relying on the model's raw context window.
-
-<a href="https://github.com/sidd37935/RAG-datasurgeonBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidd37935&repo=RAG-datasurgeonBOT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&icon_color=7dd3fc" alt="RAG-Based Document Q&A System"/>
-</a>
-
-| Layer | Technology |
-|---|---|
-| Chunking & Embeddings | Transformer Embeddings, custom chunking strategy |
-| Vector Search | FAISS — low-latency semantic retrieval |
-| Orchestration | LangChain |
-| LLM Inference | Groq API (LLaMA) — low-latency generation |
-| Interface | Streamlit |
-
-[🌐 Live Demo](https://sidd37935-rag-document-q-a-app-x4jhfn.streamlit.app/) · [🔗 Code](https://github.com/sidd37935/RAG-datasurgeonBOT)
 
 ---
 
@@ -100,23 +98,53 @@ Designed a production-style RAG pipeline that chunks uploaded PDFs, embeds them 
 
 | Domain | Technologies |
 |---|---|
-| **Languages** | Python, SQL |
-| **AI / ML** | Scikit-learn, PyTorch, TensorFlow, CNN, RNN, LSTM, Transformers |
-| **GenAI & NLP** | LangChain, FAISS, Groq API, OpenAI API, Gemini API, RAG Pipelines |
-| **Cloud & DevOps** | Azure, Terraform, Docker |
-| **Web & Tools** | Streamlit, React, HTML, CSS, Git, GitHub, VS Code, REST APIs |
+| **Programming & Data** | Python (OOP), NumPy, Pandas, SQL, Data Preprocessing, Feature Engineering |
+| **Machine Learning** | Scikit-learn, Supervised & Unsupervised Learning, Logistic Regression, K-Means, PCA, ML Pipelines |
+| **Deep Learning** | PyTorch, TensorFlow, Neural Networks, CNN, RNN, LSTM, Transformers |
+| **GenAI & NLP** | LLMs, RAG Pipelines, FAISS, LangChain, Groq API, OpenAI API, Gemini API, Prompt Engineering |
+| **APIs & App Dev** | FastAPI, REST API Design & Integration, Postman, Streamlit |
+| **Web Development** | HTML, CSS, JavaScript, React, Next.js |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM, CloudWatch, RDS, EBS, ELB, EKS), Azure, Azure DevOps, CI/CD, Docker, Kubernetes, Linux, Git/GitHub |
+| **Visualization** | Matplotlib, Seaborn |
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,html,css,git,github,vscode,azure,docker)
+![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,nextjs,js,html,css,aws,azure,docker,kubernetes,linux,git,github,vscode)
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-7dd3fc?style=for-the-badge&logo=scikitlearn&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-7dd3fc?style=for-the-badge&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq_API-7dd3fc?style=for-the-badge&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7dd3fc?style=for-the-badge&logo=terraform&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-7dd3fc?style=for-the-badge&logo=azuredevops&logoColor=black)
 
 </div>
+
+---
+
+## 🏅 Achievements
+
+- 🏆 **Samsung Innovation Campus Hackathon 2024**: selected among the top student teams to present an AI-based solution at a national-level campus event.
+- 🛰️ **ISRO Defence Training Program**: completed specialised training in AI and cybersecurity applications.
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| IBM AI & ML Professional Certificate | IBM (Coursera) |
+| Deep Learning Specialization | Udemy |
+| GenAI Powered Data Analytics | Forage |
+| Data Science & Data Visualization | Udemy |
+| Python for Everybody | Coursera |
+| SQL Bootcamp | Udemy |
+| Cloud Architecture: Agent Skills, MCP & Cloud | Anthropic |
+
+---
+
+## 🎯 Areas of Interest
+
+Generative AI & LLM Applications · Machine Learning Engineering & MLOps · Data Science & Predictive Analytics · Natural Language Processing · Cloud & DevOps
 
 ---
 
@@ -126,8 +154,6 @@ Designed a production-style RAG pipeline that chunks uploaded PDFs, embeds them 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sidd37935&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&icon_color=7dd3fc" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd37935&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=sidd37935&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=1a1b27" />
 
 </div>
 
@@ -145,7 +171,9 @@ Designed a production-style RAG pipeline that chunks uploaded PDFs, embeds them 
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
+
+Open to entry-level AI/ML and Cloud/DevOps roles, GenAI projects and MLOps collaborations. Feel free to reach out.
 
 <div align="center">
 
